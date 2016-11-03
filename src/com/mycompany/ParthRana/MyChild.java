@@ -4,7 +4,7 @@
 package com.mycompany.myExceptionP1;
 
 /**
- * @author John
+ * @author Parth
  *
  */
 public class MyChild extends MyParent {
